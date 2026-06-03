@@ -54,7 +54,30 @@ Domain 5 — Context Management        █████████████�
 |------|---------|
 | [frameworks-cheatsheet.md](frameworks-cheatsheet.md) | SPIDER, CALM, PRECISE quick reference |
 | [practice-questions.md](practice-questions.md) | 60+ scenario questions with explanations |
+| [practice-questions-1.md](practice-questions-1.md) | 60+ scenario questions with explanations |
+| [practice-questions-2.md](practice-questions-2.md) | 60+ scenario questions with explanations |
+| [practice-questions-3.md](practice-questions-3.md) | 60+ scenario questions with explanations |
+| [practice-questions-4.md](practice-questions-4.md) | 60+ scenario questions with explanations |
+| [practice-questions-5.md](practice-questions-5.md) | 60+ scenario questions with explanations |
+| [practice-questions-6.md](practice-questions-6.md) | 60+ scenario questions with explanations |
+| [practice-questions-7.md](practice-questions-7.md) | 60+ scenario questions with explanations |
+| [practice-questions-8.md](practice-questions-8.md) | 60+ scenario questions with explanations |
+| [practice-questions-9.md](practice-questions-9.md) | 60+ scenario questions with explanations |
+| [practice-questions-10.md](practice-questions-10.md) | 60+ scenario questions with explanations |
+| [practice-questions-11.md](practice-questions-11.md) | 60+ scenario questions with explanations |
+| [practice-questions-12.md](practice-questions-12.md) | 60+ scenario questions with explanations |
+| [practice-questions-13.md](practice-questions-13.md) | 60+ scenario questions with explanations |
+| [practice-questions-14.md](practice-questions-14.md) | 60+ scenario questions with explanations |
+| [practice-questions-15.md](practice-questions-15.md) | 60+ scenario questions with explanations |
+| [practice-questions-16.md](practice-questions-16.md) | 60+ scenario questions with explanations |
+| [practice-questions-17.md](practice-questions-17.md) | 60+ scenario questions with explanations |
+| [practice-questions-18.md](practice-questions-18.md) | 60+ scenario questions with explanations |
+| [practice-questions-19.md](practice-questions-19.md) | 60+ scenario questions with explanations |
+| [practice-questions-20.md](practice-questions-20.md) | 60+ scenario questions with explanations |
 | [mock-exam-1.md](mock-exam-1.md) | Full timed mock exam (60 questions) |
+| [mock-exam-2.md](mock-exam-2.md) | Full timed mock exam (60 questions) |
+| [mock-exam-3.md](mock-exam-3.md) | Full timed mock exam (60 questions) |
+| [mock-exam-4.md](mock-exam-4.md) | Full timed mock exam (60 questions) |
 
 ---
 
