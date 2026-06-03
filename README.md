@@ -4,6 +4,8 @@
 
 ---
 
+![Complete end-to-end preparation material for the CCA Foundations exam.png](<Complete end-to-end preparation material for the CCA Foundations exam.png>)
+
 ## Exam at a Glance
 
 | Parameter | Details |
